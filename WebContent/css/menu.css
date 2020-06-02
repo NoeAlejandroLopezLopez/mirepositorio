@@ -1,0 +1,29 @@
+/*
+nomre de la etiqueta{}
+nombre de la clase{}
+
+*/
+
+body{
+	fomt-famiiy:tahoma;
+}
+ul.menu{
+	list-style:none;
+	
+}
+
+
+ul.menu a{
+	text-decoration:none;
+}
+
+ul.menu li{
+	display: inline-block;
+	background-color: orange;
+	color:black;
+	padding:20px;
+}
+
+ul.menu li:hover{
+	background-color:yellow;
+}
